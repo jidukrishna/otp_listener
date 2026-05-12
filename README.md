@@ -277,4 +277,4 @@ This project is provided as-is for production use.
 
 ## Support
 
-For issues and feature requests, refer to the application logs and error messages displayed in the Settings screen.
+For issues and feature requests, refer to the application logs and error messages displayed in the Settings screen. 
