@@ -2,6 +2,10 @@
 
 A production-grade Flutter Android application that listens for incoming SMS OTP messages, extracts OTP codes using intelligent regex patterns, and forwards them to a configurable backend URL with retry logic and comprehensive logging.
 
+
+## Download from the release section
+Disable play protect when installing it
+
 ## Features
 
 ✅ **SMS OTP Listening**
