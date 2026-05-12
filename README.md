@@ -60,7 +60,7 @@ otp_listener/
 │       └── app_theme.dart       # Dark theme configuration
 ├── android/
 │   └── app/src/main/
-│       ├── kotlin/com/otp/listener/indigo/
+│       ├── kotlin/com/otp/listener/otp_listener/
 │       │   ├── MainActivity.kt   # Flutter activity with SMS event channel
 │       │   └── SmsReceiver.kt    # Broadcast receiver for SMS
 │       └── AndroidManifest.xml   # Android permissions & receivers
