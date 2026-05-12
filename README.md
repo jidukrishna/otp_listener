@@ -98,6 +98,7 @@ The application requires the following permissions (automatically requested at r
 
 1. **Clone/Navigate to project**
    ```bash
+   git clone https://github.com/jidukrishna/otp_listener.git
    cd otp_listener
    ```
 
